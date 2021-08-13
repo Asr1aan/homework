@@ -8,7 +8,7 @@
 # print(lst_1)
 # index_1 = lst_1.index(20)
 # lst_1.pop(index_1)
-# print(lst_1)
+# print(lst_1),,,
 
 # lst_2 = [70, 11, 20, 4, 100]
 # lst_2.sort()
